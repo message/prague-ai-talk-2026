@@ -13,7 +13,7 @@ Create an email digest every Monday with top news for the past week using Perple
 2. Create a new workflow
 3. Use the following prompt:
    ```
-   Create an email digest every Monday, to with top news for the past week. 
+   Create an email digest every Monday with top news for the past week. 
    Use Perplexity as the source of news.
    ```
 4. Configure the workflow:
