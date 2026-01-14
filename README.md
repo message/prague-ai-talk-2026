@@ -10,7 +10,7 @@ This repository contains 4 practice activities designed to help you explore diff
 
 ## Hands-on Practice Activities (20 minutes)
 
-### 1. [NotebookLM](./2-NotebookLM/) - AI-Powered Research Assistant
+### 1. [NotebookLM](./1-NotebookLM/) - AI-Powered Research Assistant
 **What you'll do:** Analyze web content and generate AI-powered insights about Transcarent company
 
 **Key Features:**
@@ -26,7 +26,7 @@ This repository contains 4 practice activities designed to help you explore diff
 
 ---
 
-### 2. [Microsoft Office](./3-Microsoft-Office/) - M365 Copilot Document Analysis
+### 2. [Microsoft Office](./2-Microsoft-Office/) - M365 Copilot Document Analysis
 **What you'll do:** Use AI to analyze and extract insights from business documents
 
 **Key Features:**
@@ -44,7 +44,7 @@ This repository contains 4 practice activities designed to help you explore diff
 
 ---
 
-### 3. [Image Redesign](./4-Image-Redesign/) - AI Image Transformation
+### 3. [Image Redesign](./3-Image-Redesign/) - AI Image Transformation
 **What you'll do:** Redesign and reimagine a kitchen using free AI image generation tools
 
 **Key Features:**
@@ -62,7 +62,7 @@ This repository contains 4 practice activities designed to help you explore diff
 
 ---
 
-### 4. [Gumploop Workflow](./1-Gumploop-Workflow/) - No-Code AI Automation
+### 4. [Gumploop Workflow](./4-Gumploop-Workflow/) - No-Code AI Automation
 **What you'll do:** Create an automated email digest workflow using natural language
 
 **Key Features:**
@@ -87,10 +87,10 @@ This repository contains 4 practice activities designed to help you explore diff
 
 ## What You'll Learn
 
-- **Gumploop:** No-code workflow automation using AI
 - **NotebookLM:** Research synthesis and audio generation from web sources
 - **Microsoft 365 Copilot:** Enterprise document analysis and Q&A
 - **AI Image Tools:** Creative image transformation and prompt engineering
+- **Gumploop:** No-code workflow automation using AI
 
 ## Time Management
 
@@ -105,19 +105,19 @@ Suggested approaches:
 
 ```
 prague-ai-talk-2026/
-├── 1-Gumploop-Workflow/
-│   └── README.md (detailed instructions)
-├── 2-NotebookLM/
+├── 1-NotebookLM/
 │   ├── README.md (detailed instructions)
 │   └── transcarent-links.txt (49 URLs)
-├── 3-Microsoft-Office/
+├── 2-Microsoft-Office/
 │   ├── README.md (detailed instructions with 50+ prompts)
 │   ├── AI-Strategy-Meeting-Notes-2026-01-10.docx
 │   ├── AI-Adoption-Impact-Report-Q4-2025.docx
 │   └── AI-Tool-Usage-Analytics-Q4-2025.xlsx
-├── 4-Image-Redesign/
+├── 3-Image-Redesign/
 │   ├── README.md (detailed instructions)
 │   └── kitchen.jpg
+├── 4-Gumploop-Workflow/
+│   └── README.md (detailed instructions)
 └── README.md (this file)
 ```
 
